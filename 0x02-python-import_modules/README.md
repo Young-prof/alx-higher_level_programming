@@ -2,13 +2,13 @@
 
 Author's Details:
 
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com
+frankiperezi99@gmail.com
 
-Tel: +27844775229
+Tel: +2348132714969
 
-Project Description:
+Task Description:
 
 Learn how to import functions from another file. How to use imported functions. How to create a module. How to use the built-in function dir(). How to prevent code in your script from being executed when imported. How to use command line arguments with your Python programs.
 
@@ -25,4 +25,4 @@ Learn how to import functions from another file. How to use imported functions. 
 
 Collaborate:
 
-To collaborate, reach me through my email address karlieemoyo@gmail.com
+If you ever wanna collaborate on building beautiful frontend web applications, feel free to  reach out to me through my email address frankiperezi99@gmail.com
