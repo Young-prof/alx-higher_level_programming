@@ -2,13 +2,13 @@
 
 Author's Details:
 
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com
+Email: frankiperezi99@gmail.com
 
-Tel: +27844775229
+Tel: +2348132714969
 
-DESCRIPTION:
+Task DESCRIPTION:
 
     What are lists and how to use them
     What are the differences and similarities between strings and lists
@@ -43,4 +43,4 @@ DESCRIPTION:
 
 Collaborate:
 
-To collaborate, reach me through my email address karlieemoyo@gmail.com
+If you ever wanna collaborate on building beautiful frontend web applications, feel free to reach out to me through my email address frankiperezi99@gmail.com
