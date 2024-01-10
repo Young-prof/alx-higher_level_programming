@@ -1,8 +1,9 @@
 
 # ALX HIGHER LEVEL PROGRAMMING
-![https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2019/12/codingmindset-sm.png](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2019/12/codingmindset-sm.png)
 
-This repository contains programs created for the _**ALX Software Engineering Higher Level** Programing._ Now on Higher Level Programming, Your girl here is ready for collaborations. Hey you! Come let's do hard things. The following is a specific list of projects and what I have learnt so far:
+This Repository contains tasks that were conducted as part of my ALX-SE program's, following their robost curriculum. ALX Africa is an online full-stack software engineering school, in collaboration with Holberton School of Computer Science, that uses project-based peer learning to educate students on careers in the IT industry. Visit the offical<a href="https://www.alxafrica.com/software-engineering-2022">website</a> for further information.
+
+___
 
 | PR.NO | PROJECT                                                                                 | DESCRIPTION |
 | ----- | --------------------------------------------------------------------------------------- | ----------- |
@@ -31,22 +32,23 @@ This repository contains programs created for the _**ALX Software Engineering Hi
 
 ### AUTHOR:
 <details>
-    <summary>KARLIE MOYO</summary>
+    <summary>Tekenatei Franklyn</summary>
     <ul>
         <li>
-            <a href="https://github.com/Karlie-crypto">Github</a>
+            <a href="https://github.com/Young-prof">Github</a>
         </li>
         <li>
-            <a href="https://twitter.com/karlieemoyo">Twitter</a>
+            <a href="https://twitter.com/frankytekes">Twitter</a>
         </li>
         <li>
-            <a href="https://www.linkedin.com/in/karlie-moyo/">Linkedin</a>
+            <a href="https://www.linkedin.com/in/franklyn%20tekenatei">Linkedin</a>
+        </li>
+        <li> 
+            a<href="https://www.facebook.com/franklyn.tekenatei.3/">Facebook</a>
         </li>
     </ul>
 </details>
 
 ---
 
-### Acknowledgements  :pray:
-___
-All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this <a href="https://www.alxafrica.com/software-engineering-2022">website</a> for further information.
+
