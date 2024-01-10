@@ -2,11 +2,11 @@
 
 Author's Details:
 
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com
+Email: frankiperezi99@gmail.com
 
-Tel: +27844775229
+Tel: +2348132714969
 
 DESCRIPTION:
 
@@ -39,6 +39,3 @@ What are the map, reduce and filter functions
 15. Delete by value - Write a function that deletes keys with a specific value in a dictionary. - 102-complex_delete.py.
 16. CPython #1: PyBytesObject - Create two C functions that print some basic info about Python lists and Python bytes objects. - 103-python.c.
 
-Collaborate:
-
-To collaborate, reach me through my email address karlieemoyo@gmail.com
