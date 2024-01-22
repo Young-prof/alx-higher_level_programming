@@ -1,14 +1,12 @@
-Project Name
+Project Name    0x05. Python - Exceptions
 
-0x05. Python - Exceptions
+Author's Details    
 
-Author's Details
+Name: Tekenatei Franklyn
 
-Name: Karlie Moyo
+Email: frankiperezi99@gmail.com
 
-Email: karlieemoyo@gmail.com
-
-Tel: +27844775229
+Tel: +2348132714969
 
 Requirements
 Python Scripts
@@ -37,6 +35,4 @@ Learn what’s the difference between errors and exceptions. What are exceptions
     9. ByteCode -> Python #4 - Write the Python function def magic_calculation(a, b): that does exactly the same as the given Python bytecode. - 102-magic_calculation.py.
     10. CPython #2: PyFloatObject - Create three C functions that print some basic info about Python lists, Python bytes an Python float objects. -  103-python.c.
 
-Collaborate:
-
-To collaborate, reach me through my email address karlieemoyo@gmail.com
+Open for Collaborations 
