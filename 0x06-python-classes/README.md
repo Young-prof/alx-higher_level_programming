@@ -2,11 +2,11 @@ Project Name
 0x06. Python - Classes and Objects
 
 Author's Details
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com
+Email: frankiperezi99@gmail.com
 
-Tel: +27844775229
+Tel: +2348132714969
 
 Requirements
 Python Scripts
@@ -37,5 +37,4 @@ Learn what is OOP. What is a class. What is an object and an instance. What is t
 9. Compare 2 squares - Write a class Square that defines a square by: (based on 4-square.py). -  102-square.py.
 10. ByteCode -> Python #5 - Write the Python class MagicClass that does exactly the same as the given Python bytecode. - 103-magic_class.py.
 
-Collaborate:
-To collaborate, reach me through my email address karlieemoyo@gmail.com
+
