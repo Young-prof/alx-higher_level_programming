@@ -1,9 +1,9 @@
 0x07. Python - Test-driven development
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com
+Email: frankiperezi99@gmail.com
 
-Tel: +27844775229
+Tel: +2348132714969
 
 Python Scripts
 
@@ -37,6 +37,4 @@ What’s an interactive test. Why tests are important. How to write Docstrings t
     7. Lazy matrix multiplication - Write a function that multiplies 2 matrices by using the module NumPy. - 101-lazy_matrix_mul.py, tests/101-lazy_matrix_mul.txt.
     8. CPython #3: Python Strings - Create a function that prints Python strings. - 102-python.c.
 
-Collaborate
 
-To collaborate, reach me through my email address karlieemoyo@gmail.com
