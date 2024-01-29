@@ -1,11 +1,11 @@
 0x08. Python - More Classes and Objects
 Author's Details
 
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com
+Email: frankiperezi99@gmail.com
 
-Tel: +27844775229
+Tel: +2348132714969
 
 
 Requirements:
@@ -43,6 +43,4 @@ What is OOP. “first-class everything”. What is a class. What is an object an
     9. A square is a rectangle - Write a class Rectangle that defines a rectangle by: (based on 8-rectangle.py). - 9-rectangle.py.
     10. N queens - The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem. - 101-nqueens.py.
 
-Collaborate
 
-To collaborate, reach me through my email address karlieemoyo@gmail.com
