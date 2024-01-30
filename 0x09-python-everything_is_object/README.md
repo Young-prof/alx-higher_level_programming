@@ -1,8 +1,8 @@
 0x08. Python - More Classes and Objects
 
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com
+Email: frankiperezi99@gmail.com
 
 Tel: +27844775229
 
@@ -211,6 +211,3 @@ del a
 del b
 c = 1024
 
-Collaborate
-
-To collaborate, reach me through my email address karlieemoyo@gmail.com
