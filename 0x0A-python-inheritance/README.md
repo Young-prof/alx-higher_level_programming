@@ -2,11 +2,11 @@
 **0x0A. Python - Inheritance**
 
 ## Author's Details
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com*
+Email: frankiperezi99@gmail.com*
 
-Tel: +27 844775229
+Tel: +2348132714969
 
 ##  Requirements
 
@@ -60,4 +60,3 @@ What are, when and how to use `isinstance`, `issubclass`, `type` and `super`buil
 
 ## Collaborate
 
-To collaborate, reach me through my email address karlieemoyo@gmail.com
