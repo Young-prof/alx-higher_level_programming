@@ -2,11 +2,11 @@ Project Name
 0x0B. Python - Input/Output
 
 Author's Details
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: karlieemoyo@gmail.com
+Email: frankiperezi99@gmail.com
 
-Tel: +27844775229
+Tel: +2348132714969
 
 Requirements
 Python Scripts
@@ -44,6 +44,3 @@ Learn how to open a file. How to write text in a file. How to read the full cont
 12. Pascal's Triangle - Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n. - 12-pascal_triangle.py.
 13. Search and update - Write a function that inserts a line of text to a file, after each line containing a specific string. - 100-append_after.py.
 14. Log parsing - Write a script that reads stdin line by line and computes metrics. - 101-stats.py.
-
-Collaborate
-To collaborate, reach me through my email address karlieemoyo@gmail.com
