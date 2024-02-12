@@ -2,11 +2,11 @@
 **0x0C. Python - Almost a circle**
 
 ## Author's Details
-Name: Karlie Moyo
+Name: Tekenatei Franklyn
 
-Email: *karlieemoyo@gmail.com*
+Email: *frankiperezi99@gmail.com*
 
-Tel: *+27844775229*
+Tel: *+2348132714969*
 
 ##  Requirements
 
@@ -59,8 +59,3 @@ How to handle named arguments in a function.
 * **19. File to instances** - Update the class `Base` by adding the class method `def load_from_file(cls):` that returns a list of instances. - `models/base.py`.
 * **20. JSON ok, but CSV?** - Update the class `Base` by adding the class methods `def save_to_file_csv(cls, list_objs):` and `def load_from_file_csv(cls):` that serializes and deserializes in CSV. - `models/`.
 * **21. Let's draw it** - Update the class `Base` by adding the static method `def draw(list_rectangles, list_squares):` that opens a window and draws all the `Rectangles` and `Squares`. - `models/base.py`.
-
-
-## Collaborate
-
-To collaborate, reach me through my email address karlieemoyo@gmail.com
